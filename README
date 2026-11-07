@@ -1,1 +1,9 @@
 Hello World!
+system.out.println
+
+## Collaboration Log
+
+- Partner: Sinchana
+- Work completed: Added a greet() function to the Hello World program using Live Share.
+- Learning: GitLens helps track code changes, authors, and commit history.
+- Collaboration: We worked together using Live Share and took turns editing the code.
